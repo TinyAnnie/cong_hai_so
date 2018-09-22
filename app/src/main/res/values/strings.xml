@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tổng hai số</string>
+    <string name="btn_add">Tổng 2 số</string>
+    <string name="title">Các kiểu lập trình sự kiện</string>
+    <string name="so_a">Số a:</string>
+    <string name="so_b">Số b:</string>
+</resources>

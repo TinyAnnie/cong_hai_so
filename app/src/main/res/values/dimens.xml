@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_tv">50dp</dimen>
+    <dimen name="height_edt">75dp</dimen>
+    <dimen name="text_size">20dp</dimen>
+    <dimen name="padding_text">10dp</dimen>
+    <dimen name="margin">2dp</dimen>
+    <dimen name="margin_right">40dp</dimen>
+</resources>
